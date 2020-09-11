@@ -1,0 +1,31 @@
+Tablas a utilizar de la página indexmundi:
+Death rate
+Hospital bed density
+Obesity - adult prevalence rate
+Population below poverty line
+
+Equipo 3
+José de Jesús Muñoz Valdivia
+Andrea Rodríguez Yáñez
+Carlos Roberto Valdivia Garcia
+Andrea Paloma Cimental Chávez
+
+
+Preguntas:
+¿Cuáles son los países con mayor taza de muerte?
+¿Cuáles son los países con mayor obesidad?
+¿Cuáles son los países con mayor saturación de camas?
+
+¿Cuál es el promedio de obesidad correspondiente a cada valor de taza de muertes?
+¿Cuál es el promedio de saturación de camas correspondiente a cada valor de taza de muertes?
+
+¿Cuál es el porcentaje de países cuya obesidad es mayor a 30%?
+¿Cuál es el porcentaje de países cuya saturación de camas es menor a 5%?
+
+¿Cuál es la moda de taza de muertes de países en Asia/Europa/America? (separado por continentes)
+¿Cuál es la moda de obesidad de países en Asia/Europa/America? (separado por continentes)
+
+¿Qué países tienen una taza de muerte mayor a 10 y un porcentaje de obesidad mayor a 30%?
+¿Cuáles son los países con mayor taza de muerte y una taza de obesidad menor al 35%?
+¿Cuáles son los países con mayor saturación de camas y un porcentaje de obesidad mayor al 35%?
+
