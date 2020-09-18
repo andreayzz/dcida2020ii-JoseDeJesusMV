@@ -1,0 +1,197 @@
+Lesotho	15	2018
+Lithuania	15	2018
+Latvia	15	2018
+Bulgaria	15	2018
+Ukraine	14	2018
+Serbia	14	2018
+Russia	13	2018
+Belarus	13	2018
+Afghanistan	13	2018
+Central African Republic	13	2018
+Hungary	13	2018
+Somalia	13	2018
+Estonia	13	2018
+Moldova	13	2018
+Croatia	12	2018
+Romania	12	2018
+Zambia	12	2018
+Germany	12	2018
+Niger	12	2018
+Mozambique	11	2018
+Greece	11	2018
+Georgia	11	2018
+Swaziland	11	2018
+Portugal	11	2018
+Poland	11	2018
+Italy	11	2018
+Czech Republic	11	2018
+Chad	11	2018
+Montenegro	10	2018
+Sierra Leone	10	2018
+Monaco	10	2018
+Bosnia and Herzegovina	10	2018
+Finland	10	2018
+Japan	10	2018
+Slovakia	10	2018
+Slovenia	10	2018
+Zimbabwe	10	2018
+Uganda	10	2018
+Austria	10	2018
+Belgium	10	2018
+Macedonia	10	2018
+Mali	10	2018
+Nigeria	10	2018
+Armenia	10	2018
+Botswana	10	2018
+France	9	2018
+Congo, Democratic Republic of the	9	2018
+Cameroon	9	2018
+United Kingdom	9	2018
+Uruguay	9	2018
+Sweden	9	2018
+South Africa	9	2018
+Denmark	9	2018
+Korea, North	9	2018
+Congo, Republic of the	9	2018
+Spain	9	2018
+Angola	9	2018
+Netherlands	9	2018
+Guinea	9	2018
+Cuba	9	2018
+Trinidad and Tobago	9	2018
+Puerto Rico	9	2018
+San Marino	9	2018
+Greenland	9	2018
+Canada	9	2018
+Burkina Faso	9	2018
+Burundi	9	2018
+Barbados	9	2018
+Guinea-Bissau	9	2018
+Switzerland	8	2018
+Tuvalu	8	2018
+Cote d'Ivoire	8	2018
+Kazakhstan	8	2018
+Grenada	8	2018
+United States	8	2018
+Palau	8	2018
+Thailand	8	2018
+China	8	2018
+Norway	8	2018
+Malta	8	2018
+Dominica	8	2018
+Senegal	8	2018
+Western Sahara	8	2018
+Saint Lucia	8	2018
+Mauritania	8	2018
+Malawi	8	2018
+Benin	8	2018
+Namibia	8	2018
+Taiwan	8	2018
+Equatorial Guinea	8	2018
+New Zealand	8	2018
+Liechtenstein	8	2018
+Jamaica	8	2018
+Hong Kong	8	2018
+Haiti	8	2018
+Ethiopia	8	2018
+Djibouti	8	2018
+Argentina	8	2018
+Tanzania	8	2018
+Saint Vincent and the Grenadines	7	2018
+Andorra	7	2018
+Cambodia	7	2018
+Guyana	7	2018
+Liberia	7	2018
+Luxembourg	7	2018
+Laos	7	2018
+India	7	2018
+Burma	7	2018
+Australia	7	2018
+Bahamas, The	7	2018
+Saint Kitts and Nevis	7	2018
+Comoros	7	2018
+Eritrea	7	2018
+Mauritius	7	2018
+Kiribati	7	2018
+Azerbaijan	7	2018
+Seychelles	7	2018
+Albania	7	2018
+Gambia, The	7	2018
+Ghana	7	2018
+Togo	7	2018
+Sao Tome and Principe	7	2018
+Sudan	7	2018
+Brazil	7	2018
+Kenya	7	2018
+Papua New Guinea	7	2018
+Ireland	7	2018
+Iceland	7	2018
+Indonesia	7	2018
+Kyrgyzstan	6	2018
+Madagascar	6	2018
+Dominican Republic	6	2018
+Bhutan	6	2018
+Tunisia	6	2018
+Pakistan	6	2018
+Rwanda	6	2018
+Bolivia	6	2018
+Sri Lanka	6	2018
+Chile	6	2018
+Korea, South	6	2018
+Mongolia	6	2018
+Fiji	6	2018
+Gabon	6	2018
+Peru	6	2018
+Suriname	6	2018
+Philippines	6	2018
+Turkmenistan	6	2018
+Turkey	6	2018
+Cape Verde	6	2018
+Cayman Islands	6	2018
+Nauru	6	2018
+Vietnam	6	2018
+Yemen	6	2018
+Tajikistan	6	2018
+East Timor	6	2018
+El Salvador	6	2018
+Antigua and Barbuda	6	2018
+New Caledonia	6	2018
+Nepal	6	2018
+Colombia	6	2018
+Bangladesh	5	2018
+Mexico	5	2018
+Samoa	5	2018
+Uzbekistan	5	2018
+Venezuela	5	2018
+Iran	5	2018
+Honduras	5	2018
+Israel	5	2018
+Malaysia	5	2018
+Nicaragua	5	2018
+Lebanon	5	2018
+Ecuador	5	2018
+Guatemala	5	2018
+Panama	5	2018
+Morocco	5	2018
+Falkland Islands (Islas Malvinas)	5	2012
+Tonga	5	2018
+Costa Rica	5	2018
+Paraguay	5	2018
+Macau	5	2018
+Egypt	5	2018
+Algeria	4	2018
+Belize	4	2018
+Vanuatu	4	2018
+Syria	4	2018
+Iraq	4	2018
+Solomon Islands	4	2018
+Brunei	4	2018
+Libya	4	2018
+Singapore	4	2018
+Jordan	3	2018
+Oman	3	2018
+Saudi Arabia	3	2018
+Bahrain	3	2018
+Kuwait	2	2018
+United Arab Emirates	2	2018
+Qatar	2	2018

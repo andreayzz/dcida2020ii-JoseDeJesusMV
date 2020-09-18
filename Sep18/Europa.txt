@@ -1,0 +1,43 @@
+Lithuania	15	2018
+Bulgaria	15	2018
+Latvia	15	2018
+Ukraine	14	2018
+Serbia	14	2018
+Belarus	13	2018
+Hungary	13	2018
+Estonia	13	2018
+Moldova	13	2018
+Croatia	12	2018
+Romania	12	2018
+Germany	12	2018
+Greece	11	2018
+Portugal	11	2018
+Poland	11	2018
+Czech Republic	11	2018
+Italy	11	2018
+Montenegro	10	2018
+Monaco	10	2018
+Finland	10	2018
+Bosnia and Herzegovina	10	2018
+Slovenia	10	2018
+Slovakia	10	2018
+Austria	10	2018
+Belgium	10	2018
+Macedonia	10	2018
+France	9	2018
+United Kingdom	9	2018
+Sweden	9	2018
+Denmark	9	2018
+Spain	9	2018
+Netherlands	9	2018
+San Marino	9	2018
+Switzerland	8	2018
+Norway	8	2018
+Malta	8	2018
+Liechtenstein	8	2018
+Andorra	7	2018
+Luxembourg	7	2018
+Albania	7	2018
+Ireland	7	2018
+Iceland	7	2018
+Turkey	6	2018

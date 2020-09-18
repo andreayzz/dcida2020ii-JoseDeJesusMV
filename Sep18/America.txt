@@ -1,0 +1,39 @@
+Canada	9	2018
+Greenland	9	2018
+United States	8	2018
+Mexico	5	2018
+Cuba	9	2018
+Puerto Rico	9	2018
+Trinidad and Tobago	9	2018
+Barbados	9	2018
+Grenada	8	2018
+Dominica	8	2018
+Saint Lucia	8	2018
+Jamaica	8	2018
+Haiti	8	2018
+Saint Vincent and the Grenadines	7	2018
+Bahamas, The	7	2018
+Saint Kitts and Nevis	7	2018
+Dominican Republic	6	2018
+Cayman Islands	6	2018
+El Salvador	6	2018
+Antigua and Barbuda	6	2018
+Honduras	5	2018
+Nicaragua	5	2018
+Panama	5	2018
+Guatemala	5	2018
+Costa Rica	5	2018
+Belize	4	2018
+Uruguay	9	2018
+Argentina	8	2018
+Guyana	7	2018
+Brazil	7	2018
+Chile	6	2018
+Bolivia	6	2018
+Suriname	6	2018
+Peru	6	2018
+Colombia	6	2018
+Venezuela	5	2018
+Ecuador	5	2018
+Falkland Islands (Islas Malvinas)	5	2012
+Paraguay	5	2018
