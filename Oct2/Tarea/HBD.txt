@@ -1,0 +1,172 @@
+Monaco	14	2012
+Japan	13	2012
+Korea, North	13	2012
+Korea, South	12	2015
+Belarus	11	2013
+Ukraine	9	2013
+Somalia	9	2014
+Germany	8	2013
+Greenland	8	2015
+Russia	8	2013
+Austria	8	2013
+Turkmenistan	7	2013
+Lithuania	7	2013
+Mongolia	7	2012
+Hungary	7	2013
+Bulgaria	7	2013
+Kazakhstan	7	2013
+Poland	7	2013
+Czech Republic	7	2015
+France	7	2013
+Gabon	6	2010
+Romania	6	2013
+Belgium	6	2014
+East Timor	6	2010
+Barbados	6	2014
+Slovakia	6	2015
+Latvia	6	2013
+Moldova	6	2013
+Serbia	6	2012
+Croatia	6	2015
+Hong Kong	5	2018
+Cuba	5	2014
+Estonia	5	2015
+Argentina	5	2014
+Nauru	5	2010
+Luxembourg	5	2014
+Palau	5	2010
+Saint Kitts and Nevis	5	2012
+Tajikistan	5	2013
+Switzerland	5	2013
+Netherlands	5	2009
+Malta	5	2014
+Azerbaijan	5	2013
+Slovenia	5	2013
+Kyrgyzstan	5	2013
+Macedonia	4	2013
+Finland	4	2015
+Greece	4	2015
+China	4	2012
+Armenia	4	2015
+Montenegro	4	2012
+Uzbekistan	4	2013
+San Marino	4	2012
+Norway	4	2015
+Australia	4	2014
+Antigua and Barbuda	4	2014
+Dominica	4	2010
+Grenada	4	2014
+Mauritius	4	2018
+Libya	4	2014
+Seychelles	4	2011
+Sri Lanka	4	2012
+Bosnia and Herzegovina	4	2013
+Portugal	3	2013
+Italy	3	2012
+Iceland	3	2015
+Israel	3	2013
+Suriname	3	2010
+Nepal	3	2012
+Spain	3	2013
+Trinidad and Tobago	3	2014
+Sao Tome and Principe	3	2011
+United States	3	2013
+Lebanon	3	2014
+Albania	3	2013
+Bahamas, The	3	2013
+Ireland	3	2013
+New Zealand	3	2013
+United Kingdom	3	2013
+Uruguay	3	2014
+Namibia	3	2009
+Turkey	3	2013
+Saudi Arabia	3	2014
+Brunei	3	2015
+Canada	3	2012
+Georgia	3	2013
+Tonga	3	2010
+Vietnam	3	2014
+Saint Vincent and the Grenadines	3	2014
+Denmark	3	2015
+Andorra	3	2009
+Singapore	2	2015
+Sweden	2	2015
+Fiji	2	2011
+Panama	2	2013
+Chile	2	2013
+Comoros	2	2010
+Brazil	2	2014
+Tunisia	2	2014
+Thailand	2	2010
+Swaziland	2	2011
+Cape Verde	2	2010
+Equatorial Guinea	2	2010
+Bahrain	2	2014
+Kuwait	2	2014
+Zambia	2	2010
+Kiribati	2	2015
+Malaysia	2	2015
+Algeria	2	2015
+Botswana	2	2010
+Bhutan	2	2012
+Jamaica	2	2013
+Zimbabwe	2	2011
+Oman	2	2014
+Peru	2	2014
+Egypt	2	2014
+Dominican Republic	2	2014
+Guyana	2	2014
+Ecuador	2	2013
+Colombia	2	2014
+Mexico	2	2015
+Laos	2	2012
+Syria	2	2014
+Jordan	1	2015
+Kenya	1	2010
+Iraq	1	2014
+Solomon Islands	1	2012
+Djibouti	1	2014
+Cameroon	1	2010
+El Salvador	1	2014
+Belize	1	2014
+Malawi	1	2011
+Paraguay	1	2011
+Saint Lucia	1	2013
+Qatar	1	2014
+Indonesia	1	2015
+United Arab Emirates	1	2013
+Morocco	1	2014
+Bolivia	1	2014
+Costa Rica	1	2014
+Gambia, The	1	2011
+Central African Republic	1	2011
+Philippines	1	2011
+Guinea-Bissau	1	2009
+Nicaragua	1	2014
+Burma	1	2012
+Ghana	1	2011
+Cambodia	1	2015
+Burundi	1	2014
+Bangladesh	1	2015
+Sudan	1	2013
+Liberia	1	2010
+Venezuela	1	2014
+Yemen	1	2014
+Togo	1	2011
+Tanzania	1	2010
+India	1	2011
+Mozambique	1	2011
+Haiti	1	2013
+Honduras	1	2014
+Eritrea	1	2011
+Guatemala	1	2014
+Pakistan	1	2014
+Afghanistan	1	2014
+Benin	1	2010
+Uganda	1	2010
+Burkina Faso	0	2010
+Guinea	0	2011
+Ethiopia	0	2015
+Iran	0	2014
+Madagascar	0	2010
+Mali	0	2010

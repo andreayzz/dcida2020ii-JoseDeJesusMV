@@ -1,0 +1,185 @@
+Nauru	61	2016
+Palau	55	2016
+Tuvalu	52	2016
+Tonga	48	2016
+Samoa	47	2016
+Kiribati	46	2016
+Kuwait	38	2016
+United States	36	2016
+Jordan	36	2016
+Saudi Arabia	35	2016
+Qatar	35	2016
+Libya	33	2016
+Turkey	32	2016
+Lebanon	32	2016
+Egypt	32	2016
+United Arab Emirates	32	2016
+Bahamas, The	32	2016
+New Zealand	31	2016
+Iraq	30	2016
+Fiji	30	2016
+Bahrain	30	2016
+Canada	29	2016
+Australia	29	2016
+Malta	29	2016
+Mexico	29	2016
+Argentina	28	2016
+South Africa	28	2016
+Chile	28	2016
+Dominica	28	2016
+Uruguay	28	2016
+United Kingdom	28	2016
+Syria	28	2016
+Dominican Republic	28	2016
+Algeria	27	2016
+Oman	27	2016
+Tunisia	27	2016
+Suriname	26	2016
+Hungary	26	2016
+Lithuania	26	2016
+Israel	26	2016
+Morocco	26	2016
+Czech Republic	26	2016
+Iran	26	2016
+Costa Rica	26	2016
+Andorra	26	2016
+Venezuela	26	2016
+Ireland	25	2016
+Vanuatu	25	2016
+Bulgaria	25	2016
+Greece	25	2016
+Jamaica	25	2016
+El Salvador	25	2016
+Cuba	25	2016
+Belarus	25	2016
+Croatia	24	2016
+Belize	24	2016
+Ukraine	24	2016
+Spain	24	2016
+Saint Vincent and the Grenadines	24	2016
+Nicaragua	24	2016
+Latvia	24	2016
+Montenegro	23	2016
+Norway	23	2016
+Poland	23	2016
+Russia	23	2016
+Barbados	23	2016
+Saint Kitts and Nevis	23	2016
+Haiti	23	2016
+Panama	23	2016
+Luxembourg	23	2016
+Romania	23	2016
+Solomon Islands	23	2016
+Macedonia	22	2016
+Germany	22	2016
+Colombia	22	2016
+Finland	22	2016
+Brazil	22	2016
+Belgium	22	2016
+Iceland	22	2016
+Albania	22	2016
+Georgia	22	2016
+France	22	2016
+Serbia	22	2016
+Honduras	21	2016
+Grenada	21	2016
+Papua New Guinea	21	2016
+Guatemala	21	2016
+Estonia	21	2016
+Kazakhstan	21	2016
+Portugal	21	2016
+Mongolia	21	2016
+Sweden	21	2016
+Slovakia	21	2016
+Netherlands	20	2016
+Paraguay	20	2016
+Guyana	20	2016
+Armenia	20	2016
+Bolivia	20	2016
+Slovenia	20	2016
+Austria	20	2016
+Azerbaijan	20	2016
+Ecuador	20	2016
+Italy	20	2016
+Peru	20	2016
+Denmark	20	2016
+Saint Lucia	20	2016
+Switzerland	20	2016
+Antigua and Barbuda	19	2016
+Botswana	19	2016
+Moldova	19	2016
+Trinidad and Tobago	19	2016
+Turkmenistan	19	2016
+Bosnia and Herzegovina	18	2016
+Namibia	17	2016
+Yemen	17	2016
+Uzbekistan	17	2016
+Kyrgyzstan	17	2016
+Lesotho	17	2016
+Swaziland	17	2016
+Malaysia	16	2016
+Zimbabwe	16	2016
+Gabon	15	2016
+Tajikistan	14	2016
+Brunei	14	2016
+Seychelles	14	2016
+Djibouti	14	2016
+Mauritania	13	2016
+Sao Tome and Principe	12	2016
+Cape Verde	12	2016
+Cameroon	11	2016
+Ghana	11	2016
+Mauritius	11	2016
+Cote d'Ivoire	10	2016
+Gambia, The	10	2016
+Thailand	10	2016
+Liberia	10	2016
+Benin	10	2016
+Congo, Republic of the	10	2016
+Guinea-Bissau	10	2016
+Nigeria	9	2016
+Senegal	9	2016
+Sierra Leone	9	2016
+Pakistan	9	2016
+Mali	9	2016
+Togo	8	2016
+Tanzania	8	2016
+Somalia	8	2016
+Angola	8	2016
+Zambia	8	2016
+Equatorial Guinea	8	2016
+Comoros	8	2016
+Guinea	8	2016
+Central African Republic	8	2016
+Mozambique	7	2016
+Kenya	7	2016
+Indonesia	7	2016
+Korea, North	7	2016
+Congo, Democratic Republic of the	7	2016
+Sudan	7	2014
+Bhutan	6	2016
+Philippines	6	2016
+China	6	2016
+Chad	6	2016
+Singapore	6	2016
+Burma	6	2016
+Rwanda	6	2016
+Malawi	6	2016
+Burkina Faso	6	2016
+Niger	6	2016
+Afghanistan	6	2016
+Burundi	5	2016
+Madagascar	5	2016
+Laos	5	2016
+Uganda	5	2016
+Sri Lanka	5	2016
+Eritrea	5	2016
+Korea, South	5	2016
+Ethiopia	5	2016
+Japan	4	2016
+Nepal	4	2016
+India	4	2016
+Cambodia	4	2016
+East Timor	4	2016
+Bangladesh	4	2016
+Vietnam	2	2016
